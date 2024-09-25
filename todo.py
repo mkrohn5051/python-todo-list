@@ -40,4 +40,4 @@ while True:
     elif choice == '5':
         break
     else:
-        print("Invalid choice! Please select again.")
+        print("Invalid choice! Please select again.  And die motherfucker, die!")
